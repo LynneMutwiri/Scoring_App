@@ -17,6 +17,3 @@ This project implements a machine learning-based credit scoring system designed 
 
 ## Use Case
 Supports data-driven credit decision-making in SACCOs by predicting loan default risk.
-
-## Author
-[Your Name]
